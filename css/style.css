@@ -250,6 +250,7 @@ html{
 .footer{
     text-align: center;
     background-color: #263238;
+    /* background-color: #bd3411; */
     color: #f4f4f4;
     height: 13rem;
     width:100vw ;
@@ -308,6 +309,7 @@ html{
     font-weight: 600;
     width: 60%;
     color: #f4f4f4;
+    /* color: #4606ac; */
 }
 .banner-right {
     float: right;
@@ -398,9 +400,7 @@ html{
     display: block;
     clear: both;
 } 
-.form-wrapper{
-    /* border:3px solid #08ce4a; */
-}   
+
 .form-wrapper .company-address{
     /* border:3px solid #ce0864; */
     background-color:whitesmoke;
